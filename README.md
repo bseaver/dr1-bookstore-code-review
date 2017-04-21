@@ -49,6 +49,12 @@
   * Add create database
   * Add drop table
 
+#### Add a Slogan and 2 Pages: About and Locations
+* #overlay=admin/config/system/site-information
+* #overlay-context=&overlay=node/add/page
+* Adjust main menu weight, add URL alias
+
+
 
 ## Copyright (c)
 * 2017 Benjamin T. Seaver
