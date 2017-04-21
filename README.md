@@ -54,7 +54,10 @@
 * #overlay-context=&overlay=node/add/page
 * Adjust main menu weight, add URL alias
 
-
+#### Contact Page
+* #overlay=admin/modules enable, permissions and configure
+* overlay=admin/people/permissions%23module-contact
+* #overlay=admin/structure/menu enable in navigation
 
 ## Copyright (c)
 * 2017 Benjamin T. Seaver
