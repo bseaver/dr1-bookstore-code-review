@@ -1,5 +1,5 @@
 name = Site Configuration
-description = Save site_name, site_slogan, theme_default and site_frontpage 
+description = Save site_name, site_slogan, theme_default and site_frontpage
 core = 7.x
 package = Features
 version = 7.x-1.0
