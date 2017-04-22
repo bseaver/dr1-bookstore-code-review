@@ -27,6 +27,12 @@
   * Create "Reviewer" role. They may edit and delete their own reviews.
   * Create a front page coupon block visible to authenticated users: "This week: use this coupon code to get 25% off on all Science Fiction!"
 
+  * Note: Login to existing Reviewer "Ima Reviewer" with bookstore password
+
+  * Additional Features:
+    * View of "My Reviews"
+    * This view is shown or hidden based upon role using "Roles for menu" contrib module
+
 ## Summary of Steps Used to Build this Site:
 
 #### Initial setup
